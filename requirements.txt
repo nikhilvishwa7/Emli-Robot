@@ -95,3 +95,4 @@ multicolorcaptcha
 gpytranslate==1.4.0
 numpy
 aiohttp==3.8.1
+httpcore
