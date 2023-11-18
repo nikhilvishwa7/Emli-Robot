@@ -20,7 +20,6 @@ zalgo-text
 geopy
 nltk
 psutil
-aiohttp
 Pillow
 CurrencyConverter
 googletrans==4.0.0-rc1
@@ -43,7 +42,7 @@ ujson
 pretty_errors
 pygithub
 TgCrypto
-pyrogram==1.4.16
+pyrogram>=2.0.30
 PyDictionary
 asyncio
 cloudscraper
